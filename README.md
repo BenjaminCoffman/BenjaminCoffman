@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenjaminCoffman
 - 👀 I’m interested in Front End Programing
 - 🌱 I’m currently learning HTML5, CSS, JS and React
-- 💞️ I’m looking to collaborate on future projects...
+- 💞️ I’m looking to collaborate on multiple future projects...
 - 📫 How to reach me ...benjaminandrewcoffman@gmail.com
 
 <!---
